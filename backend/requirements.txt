@@ -12,7 +12,7 @@ httpcore==1.0.9
 httpx==0.28.1
 idna==3.18
 jiter==0.16.0
-ollama
+google-generativeai==0.8.3
 pydantic==2.13.4
 pydantic_core==2.46.4
 pymupdf==1.28.0
