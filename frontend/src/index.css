@@ -1,5 +1,6 @@
 @import "tailwindcss";
-
+@source "../index.html";
+@source "../src";
 @theme {
   --color-canvas: #faf9f5;
   --color-surface-soft: #f5f0e8;
